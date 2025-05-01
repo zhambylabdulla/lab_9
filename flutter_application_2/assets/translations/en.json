@@ -1,0 +1,23 @@
+{
+    "title": "Registration App",
+    "register": "Register",
+    "profile": "Profile",
+    "full_name": "Full Name",
+    "phone_number": "Phone Number",
+    "email_address": "Email Address",
+    "country": "Country",
+    "life_story": "Life Story",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "register_button": "Register",
+    "name_required": "Name is required.",
+    "alphabetical_characters": "Please enter alphabetical characters.",
+    "phone_format_error": "Phone number must be entered as (###)###-####",
+    "password_length_error": "8 characters required for password",
+    "passwords_mismatch_error": "Passwords do not match",
+    "registration_successful": "Registration successful",
+    "verified_register_form": "{{name}} is now a verified register form",
+    "verified_button": "Verified",
+    "user_info": "User Info",
+    "not_specified": "Not specified"
+  }

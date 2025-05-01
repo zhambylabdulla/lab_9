@@ -1,0 +1,20 @@
+  import 'package:flutter/material.dart';
+
+  const Color primaryTextColor = Colors.black;
+  const Color secondaryTextColor = Colors.grey;
+  const Color primaryButtonColor = Colors.green;
+  const Color primaryButtonTextColor = Colors.white;
+  const double defaultPadding = 16.0;
+  const double defaultBorderRadiusValue = 20.0;
+  const double borderWidth = 2.0;
+  const Color focusedBorderColor = Color.fromARGB(255, 10, 45, 73);
+  const double titleFontSize = 20.0;
+  const double labelFontSize = 16.0;
+  const double hintFontSize = 14.0;
+  const double buttonFontSize = 18.0;
+  const double snackBarFontSize = 16.0;
+  const double dialogTitleFontSize = 20.0;
+  const double dialogContentFontSize = 18.0;
+  const double dialogButtonFontSize = 16.0;
+  const double userInfoTitleFontSize = 18.0;
+  const double userInfoSubtitleFontSize = 16.0;

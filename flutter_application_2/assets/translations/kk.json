@@ -1,0 +1,23 @@
+{
+    "title": "Тіркеу",
+    "register": "Тіркеу",
+    "profile": "Профиль",
+    "full_name": "Толық аты-жөні",
+    "phone_number": "Телефон нөмірі",
+    "email_address": "Электрондық пошта мекенжайы",
+    "country": "Ел",
+    "life_story": "Өмірбаяны",
+    "password": "Құпия сөз",
+    "confirm_password": "Құпия сөзді растау",
+    "register_button": "Тіркелу",
+    "name_required": "Аты-жөні міндетті түрде толтырылуы керек.",
+    "alphabetical_characters": "Әріптік белгілерді енгізіңіз.",
+    "phone_format_error": "Телефон нөмірі (###)###-#### форматында енгізілуі керек",
+    "password_length_error": "Құпия сөз 8 таңбадан тұруы керек",
+    "passwords_mismatch_error": "Құпия сөздер сәйкес келмейді",
+    "registration_successful": "Тіркеу сәтті өтті",
+    "verified_register_form": "{{name}} енді тіркелген пайдаланушы болып табылады",
+    "verified_button": "Расталды",
+    "user_info": "Пайдаланушы туралы ақпарат",
+    "not_specified": "Көрсетілмеген"
+  }
